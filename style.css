@@ -217,7 +217,6 @@
 
     .portfolio-box img:hover {
         transform: scale(1.1);
-        filter: brightness(70%);
     }
 
     .portfolio-box .portfolio-layer {
